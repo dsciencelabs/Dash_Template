@@ -19,7 +19,7 @@ app_ui <- function(request) {
         title = dashboardBrand(
           title = "ECGO Dash",
           color = "white",
-          href = "https://dsciencelabs.github.io/web/index.html",
+          href = "https://ecgoevmoto.com/",
           image = "www/logo.png",
           opacity = 2
         ),
