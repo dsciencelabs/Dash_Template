@@ -1,0 +1,12 @@
+name: ECGO_Dash
+title: ECGO_Dash
+username: bakti-siregar
+account: bakti-siregar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12402318
+bundleId: 8959491
+url: https://bakti-siregar.shinyapps.io/ECGO_Dash/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,33 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+
+# Installation
+
+You can install the package:
+
+``` r
+devtools::install_bitbucket("johanaparicio/mrbean", 
+                            auth_user = "AparicioJohan", 
+                            password = rstudioapi::askForPassword() )
+```
+
+## Example
+
+
+```{r example}
+#  library(MrBean)
+#  run_app()
+```
