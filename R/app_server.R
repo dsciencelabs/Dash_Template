@@ -35,7 +35,7 @@ app_server <- function(input, output, session) {
   mod_descrip_scatter_server("descrip_scatter_1", data = data, plot = 1)
   mod_descrip_boxplot_server("descrip_boxplot_1", data = data, plot = 2)
 
-  
   # About
   callModule(mod_about_server, "about_ui_1")
+  
 }

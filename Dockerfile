@@ -1,6 +1,6 @@
 FROM rstudio/r-base:4.1.1-focal
 
-LABEL maintainer "Johan Aparicio <j.aparicio@cgiar.org>"
+LABEL maintainer "Bakti Siregar <siregarbakti@gmail.com>"
     
 # Install Dependencies
 RUN apt-get update && apt-get install -y \
